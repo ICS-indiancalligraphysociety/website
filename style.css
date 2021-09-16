@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+}
+
+img{
+    width: 1200px;
+    height: 900px;
+}
+
+#marqueestyle {
+    background-color: blue;
+    color: white;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+img{
+    width: 1000px;
+    height: 1000px;
+}
+h1{
+     text-align: center;
+     color: black;
+     
+}
